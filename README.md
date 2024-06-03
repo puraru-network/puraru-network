@@ -13,27 +13,27 @@
 
 
 
-                ggggggggggggggggggggggggggggggggggggggggg|               `
-                M)                                      M]
-                M)                                      M]
-                M)                           .(NNa.     M]
-                M)         -MMMMMMMMB'  .M#^ M%  (N     M]
-                M)                   ..M@'   7N..MD     M]
-                M)                 .(MD`       _`       M]
-                M)                .Y"                   M]
-                M)             .da.                     M]
-                M)               TMm.                   M]
-                M)        MF       7MN,      .M[        M]
-                M)       .M>         (HN,     MN        M]
-                M)       d#            ,Mm    -M,       M]
-                M)      .M]             .Mb    Mb       M]
-                M)      (M               JN    JN.      M]
-                M)      MF               d#    .M]      M]
-                M)     .M!  (Me         .M'     HN      M]
-                M)      `    .WNa.. ...MB!       ~      M]
-                M)              ?T"H"9"                 M]
-                M)                                      M]
-                MNgggggggggggggggg[     .gggggggggggggggM]
+                [ggggggggggggggggggggggggggggggggggggggggg|               `
+                [M)                                      M]
+                [M)                                      M]
+                [M)                           .(NNa.     M]
+                [M)         -MMMMMMMMB'  .M#^ M%  (N     M]
+                [M)                   ..M@'   7N..MD     M]
+                [M)                 .(MD`       _`       M]
+                [M)                .Y"                   M]
+                [M)             .da.                     M]
+                [M)               TMm.                   M]
+                [M)        MF       7MN,      .M[        M]
+                [M)       .M>         (HN,     MN        M]
+                [M)       d#            ,Mm    -M,       M]
+                [M)      .M]             .Mb    Mb       M]
+                [M)      (M               JN    JN.      M]
+                [M)      MF               d#    .M]      M]
+                [M)     .M!  (Me         .M'     HN      M]
+                [M)      `    .WNa.. ...MB!       ~      M]
+                [M)              ?T"H"9"                 M]
+                [M)                                      M]
+                [MNgggggggggggggggggggggggggggggggggggggNM]
 
               ぷらるネットワーク　公式アイコン（アスキーアート）
               puraru network(PNW) Official Icon (ASCII Art)
