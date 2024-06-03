@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @puraru-network
+- 👋 Hi, We are @puraru-network
 - 👀 We aim to create a network that "leaves no user behind," offering services for both individuals and businesses.
 - 🌱 We not only strive to learn new technologies daily to swiftly integrate them into our services, but we also continually work to develop new technologies ourselves.
 - 💞️ We prioritize creating an environment to foster future engineers through collaboration with student organizations and similar entities. While we may not have the resources of a large corporation, we dedicate ourselves daily to nurturing small dreams and aspirations.
